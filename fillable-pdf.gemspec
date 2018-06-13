@@ -19,5 +19,4 @@ Gem::Specification.new do |spec|
   spec.require_paths = %w[ext lib]
 
   spec.requirements << '>= JDK 5.0'
-  spec.add_runtime_dependency 'rjb', git: 'https://github.com/aldodelgado/rjb.git'
 end
